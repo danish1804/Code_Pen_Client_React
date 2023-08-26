@@ -8,7 +8,7 @@ Client side code for the full-stack clone of Codepen built using the MERN stack,
 Demo: [React-Codepen](https://codepenreact.netlify.app/)
 <br />
 <br />
-Backend code at [react-codepen-backend](https://github.com/Swapnil-2001/react-codepen-server)
+Backend code at [react-codepen-backend](https://github.com/danish1804/Code_Pen_Server)
 
 # Getting Started with Create React App
 
